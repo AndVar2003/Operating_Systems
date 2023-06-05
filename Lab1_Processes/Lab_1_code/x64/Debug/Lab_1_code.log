@@ -1,0 +1,9 @@
+﻿  Employee_functions.cpp
+D:\BSU\OS\OperatingSystems_Progects-main\OperatingSystems_Progects-main\OS_Lab_1_C-98\Employee_functions.cpp(64,31): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Lab_1_code.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.35.32215\include\charconv(13): warning STL4038: The contents of <charconv> are available only with C++17 or later.
+D:\BSU\OS\OperatingSystems_Progects-main\OperatingSystems_Progects-main\OS_Lab_1_C-98\Lab_1_code\Lab_1_code.cpp(26,19): warning C4244: инициализация: преобразование "const wchar_t" в "char", возможна потеря данных
+D:\BSU\OS\OperatingSystems_Progects-main\OperatingSystems_Progects-main\OS_Lab_1_C-98\Lab_1_code\Lab_1_code.cpp(31,40): warning C4244: =: преобразование "const wchar_t" в "char", возможна потеря данных
+D:\BSU\OS\OperatingSystems_Progects-main\OperatingSystems_Progects-main\OS_Lab_1_C-98\Lab_1_code\Lab_1_code.cpp(42,18): warning C4244: инициализация: преобразование "const wchar_t" в "char", возможна потеря данных
+  Создание кода...
+  Lab_1_code.vcxproj -> D:\BSU\OS\OperatingSystems_Progects-main\OperatingSystems_Progects-main\OS_Lab_1_C-98\x64\Debug\Lab_1_code.exe
