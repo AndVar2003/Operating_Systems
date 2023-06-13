@@ -1,0 +1,9 @@
+﻿  Employee_functions.cpp
+  Manager_class.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.35.32215\include\charconv(13): warning STL4038: The contents of <charconv> are available only with C++17 or later.
+  Server.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.35.32215\include\charconv(13): warning STL4038: The contents of <charconv> are available only with C++17 or later.
+  Server_class.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.35.32215\include\charconv(13): warning STL4038: The contents of <charconv> are available only with C++17 or later.
+  Создание кода...
+  OS_Lab_5_C-98.vcxproj -> D:\BSU\OS\OperatingSystems_Progects-main\OperatingSystems_Progects-main\OS_Lab_5_C-98\x64\Debug\OS_Lab_5_C-98.exe
